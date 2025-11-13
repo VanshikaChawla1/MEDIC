@@ -1,0 +1,11 @@
+torch
+gymnasium
+numpy
+pandas
+scikit-learn
+fastapi
+uvicorn
+shap
+matplotlib
+sqlalchemy
+pydantic
